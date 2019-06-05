@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="rbqKwj" name="Sanascope Public" projectType="guiapp" jucerVersion="5.4.3"
+              companyName="Sanascope" companyWebsite="sanascope.com">
+  <MAINGROUP id="Rl49In" name="Sanascope Public">
+    <GROUP id="{5A0A5C4F-2CA1-DF07-559A-116A8E334A59}" name="Source">
+      <FILE id="PWbcsk" name="AudioLiveScrollingDisplay.h" compile="0" resource="0"
+            file="Source/AudioLiveScrollingDisplay.h"/>
+      <FILE id="kShfjQ" name="Main.cpp" compile="1" resource="0" file="Source/Main.cpp"/>
+      <FILE id="CiNhd4" name="MainComponent.cpp" compile="1" resource="0"
+            file="Source/MainComponent.cpp"/>
+      <FILE id="Xb11Pr" name="MainComponent.h" compile="0" resource="0" file="Source/MainComponent.h"/>
+      <FILE id="WNml6g" name="AudioRecorder.cpp" compile="1" resource="0"
+            file="Source/AudioRecorder.cpp"/>
+      <FILE id="yE3J8b" name="AudioRecorder.h" compile="0" resource="0" file="Source/AudioRecorder.h"/>
+      <FILE id="TonKNm" name="Spectrogram.cpp" compile="1" resource="0" file="Source/Spectrogram.cpp"/>
+      <FILE id="A2B8vj" name="Spectrogram.h" compile="0" resource="0" file="Source/Spectrogram.h"/>
+      <FILE id="pABXCn" name="Utils.cpp" compile="1" resource="0" file="Source/Utils.cpp"/>
+      <FILE id="sg7rHC" name="Utils.h" compile="1" resource="0" file="Source/Utils.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <EXPORTFORMATS>
+    <ANDROIDSTUDIO targetFolder="Builds/Android" androidTargetSDK="24" gradleVersion="5.1.1"
+                   gradleWrapperVersion="3.4.0" androidInternetNeeded="0" microphonePermissionNeeded="1"
+                   cameraPermissionNeeded="0" androidBluetoothNeeded="0" androidInAppBilling="0"
+                   androidVibratePermissionNeeded="0" androidEnableContentSharing="0"
+                   androidEnableRemoteNotifications="0">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug"/>
+        <CONFIGURATION isDebug="0" name="Release"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../../../Users/alan/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../../../Users/alan/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../../../Users/alan/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../../../Users/alan/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../../../Users/alan/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../../../Users/alan/JUCE/modules"/>
+        <MODULEPATH id="juce_cryptography" path="../../../Users/alan/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../../../Users/alan/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../../../Users/alan/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../../../Users/alan/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../../../Users/alan/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../../../Users/alan/JUCE/modules"/>
+        <MODULEPATH id="juce_opengl" path="../../../Users/alan/JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../../../Users/alan/JUCE/modules"/>
+      </MODULEPATHS>
+    </ANDROIDSTUDIO>
+    <VS2017 targetFolder="Builds/VisualStudio2017">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug"/>
+        <CONFIGURATION isDebug="0" name="Release"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_opengl"/>
+        <MODULEPATH id="juce_gui_extra"/>
+        <MODULEPATH id="juce_gui_basics"/>
+        <MODULEPATH id="juce_graphics"/>
+        <MODULEPATH id="juce_events"/>
+        <MODULEPATH id="juce_data_structures"/>
+        <MODULEPATH id="juce_cryptography"/>
+        <MODULEPATH id="juce_core"/>
+        <MODULEPATH id="juce_audio_utils"/>
+        <MODULEPATH id="juce_audio_processors"/>
+        <MODULEPATH id="juce_audio_formats"/>
+        <MODULEPATH id="juce_audio_devices"/>
+        <MODULEPATH id="juce_audio_basics"/>
+        <MODULEPATH id="juce_dsp" path="../../../Users/alan/JUCE/modules"/>
+      </MODULEPATHS>
+    </VS2017>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_cryptography" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_opengl" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <WINDOWS/>
+  </LIVE_SETTINGS>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1"/>
+</JUCERPROJECT>
