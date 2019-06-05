@@ -1,3 +1,3 @@
 # client side
 
-Juice/Android client app
+Juce/Android client app
