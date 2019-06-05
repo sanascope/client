@@ -20,6 +20,7 @@
 #pragma once
 #include "JuceHeader.h"
 #include "Utils.h"
+#include "FileUploader.h"
 
 /*
 class RecorderThread : public AudioIODeviceCallback , public Thread {
@@ -61,6 +62,8 @@ public:
 			if (!sana.exists()) { sana.createDirectory(); }
 			File outputFile = File(sana.getFullPathName() + File::getSeparatorChar() + Utils::getTimeLabel() + ".wav");
 
+			currentFileName = outputFile.getFullPathName();
+
 			Utils::log("deleting file " + outputFile.getFullPathName());
 			if (outputFile.exists()) { outputFile.deleteFile(); }
 
@@ -98,6 +101,23 @@ public:
 		// the audio callback while this happens.
 		Utils::log("resetting writer...");
 		threadedWriter.reset();
+
+        uploadAudioFile();
+	}
+
+	void uploadAudioFile() {
+	    if(currentFileName.isEmpty())
+            return;
+
+        File file(currentFileName);
+        FileUploader file_upload(file, "localhost");
+        Utils::log("Ready to upload file: " + currentFileName);
+
+        file_upload.startThread();
+        Utils::log("Upload Thread started...");
+
+        if(file_upload.waitForThreadToExit(1000000));
+        Utils::log(file_upload.getResponseString());
 	}
 
 	bool isRecording() const {
@@ -140,6 +160,7 @@ private:
 	std::unique_ptr<AudioFormatWriter::ThreadedWriter> threadedWriter; // the FIFO used to buffer the incoming data
 	double sampleRate = 0.0;
 	int64 nextSampleNum = 0;
+    String currentFileName;
 
 	CriticalSection writerLock;
 	std::atomic<AudioFormatWriter::ThreadedWriter*> activeWriter { nullptr };
