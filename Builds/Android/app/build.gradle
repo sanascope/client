@@ -84,9 +84,9 @@ android {
 
     sourceSets {
         main.java.srcDirs +=
-            ["../../../../../../Users/alan/JUCE/modules/juce_core/native/javacore/init",
-             "../../../../../../Users/alan/JUCE/modules/juce_core/native/javacore/app",
-             "../../../../../../Users/alan/JUCE/modules/juce_gui_basics/native/javacore/app"]
+            ["../../../../../modules/juce_core/native/javacore/init",
+             "../../../../../modules/juce_core/native/javacore/app",
+             "../../../../../modules/juce_gui_basics/native/javacore/app"]
 
         main.res.srcDirs +=
             []

@@ -68,7 +68,8 @@ public:
 				// Now create a WAV writer object that writes to our output stream...
 				WavAudioFormat wavFormat;
 
-				if (auto writer = wavFormat.createWriterFor(fileStream.get(), sampleRate, 1, 16, {}, 0)) {
+				// setting WAF format with sample rate to 32kHz
+				if (auto writer = wavFormat.createWriterFor(fileStream.get(), /*sampleRate*/ 32000.0 , 1, 16, {}, 0)) {
 					fileStream.release(); // (passes responsibility for deleting the stream to the writer object that is now using it)
 
 					// Now we'll create one of these helper objects which will act as a FIFO buffer, and will
@@ -80,6 +81,8 @@ public:
 					activeWriter = threadedWriter.get();
 				}
 			}
+		} else {
+		    Utils::log("No device sample rate defined!!!");
 		}
 	}
 
@@ -104,6 +107,7 @@ public:
 	//==============================================================================
 	void audioDeviceAboutToStart(AudioIODevice* device) override {
 		sampleRate = device->getCurrentSampleRate();
+		Utils::log("device sampling rate: " + std::to_string(sampleRate) + " --> hardcoding WAV sample rate to 32kHz...");
 	}
 
 	void audioDeviceStopped() override {

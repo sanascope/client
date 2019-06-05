@@ -6,7 +6,50 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be2d1fe2-5571-4569-a2f5-ea6b2fecca87" name="Default Changelist" comment="" />
+    <list default="true" id="be2d1fe2-5571-4569-a2f5-ea6b2fecca87" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/AppConfig.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/AppConfig.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/JuceHeader.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/JuceHeader.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/ReadMe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/ReadMe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_basics.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_basics.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_basics.mm" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_basics.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_devices.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_devices.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_devices.mm" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_devices.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_formats.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_formats.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_formats.mm" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_formats.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_processors.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_processors.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_processors.mm" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_processors.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_utils.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_utils.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_utils.mm" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_audio_utils.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_core.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_core.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_core.mm" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_core.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_cryptography.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_cryptography.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_cryptography.mm" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_cryptography.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_data_structures.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_data_structures.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_data_structures.mm" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_data_structures.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_dsp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_dsp.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_dsp.mm" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_dsp.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_events.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_events.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_events.mm" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_events.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_graphics.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_graphics.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_graphics.mm" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_graphics.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_gui_basics.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_gui_basics.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_gui_basics.mm" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_gui_basics.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_gui_extra.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_gui_extra.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_gui_extra.mm" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_gui_extra.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_opengl.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_opengl.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_opengl.mm" beforeDir="false" afterPath="$PROJECT_DIR$/../../JuceLibraryCode/include_juce_opengl.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MyAudioThroughput.jucer" beforeDir="false" afterPath="$PROJECT_DIR$/../../MyAudioThroughput.jucer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Source/AudioRecorder.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../Source/AudioRecorder.h" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,55 +72,58 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../Source/Main.cpp">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../Source/MainComponent.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="935">
-              <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
-            </state>
+            <state relative-caret-position="-201" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../Source/MainComponent.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2975">
-              <caret line="175" column="37" selection-start-line="175" selection-start-column="37" selection-end-line="175" selection-end-column="37" />
+            <state relative-caret-position="122">
+              <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../Source/Spectrogram.h">
+        <entry file="file://$PROJECT_DIR$/../../Source/AudioRecorder.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            <state relative-caret-position="200">
+              <caret line="114" column="5" selection-start-line="114" selection-start-column="5" selection-end-line="114" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Android.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../Source/Spectrogram.cpp">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../Source/AudioLiveScrollingDisplay.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+            <state relative-caret-position="120">
+              <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>string</find>
+      <find>sampleRate</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -87,16 +133,19 @@
         <option value="$PROJECT_DIR$/../../Source/MainComponent.cpp" />
         <option value="$PROJECT_DIR$/../../Source/Spectrogram.cpp" />
         <option value="$PROJECT_DIR$/../../Source/AudioLiveScrollingDisplay.h" />
+        <option value="$PROJECT_DIR$/../../Source/AudioRecorder.h" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
-    <option name="y" value="549" />
-    <option name="width" value="2067" />
-    <option name="height" value="552" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1680" />
+    <option name="y" value="-178" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -107,21 +156,40 @@
           <expand>
             <path>
               <item name="Android" type="b2602c69:ProjectViewProjectNode" />
-              <item name="app" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="Android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="device.picker.selection" value="Nexus_5X_API_27_x86" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="device.picker.selection" value="Nexus_4_Edited_API_24" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="sync.plugin.last.upgrade.timestamp" value="1559755357590" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -236,6 +304,7 @@
       </method>
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -267,26 +336,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1455" height="2535" extended-state="7" />
+    <frame x="1680" y="-178" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.30394265" />
-      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49768162" visible="true" weight="0.13791268" />
+      <window_info id="Structure" order="2" sideWeight="0.5023184" side_tool="true" visible="true" weight="0.13791268" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Build Variants" order="4" side_tool="true" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Designer" order="6" />
-      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Resources Explorer" order="7" sideWeight="0.49768162" weight="0.32960597" />
       <window_info id="Capture Tool" order="8" />
-      <window_info anchor="bottom" id="Run" order="0" />
-      <window_info anchor="bottom" id="Logcat" order="1" weight="0.32958803" />
+      <window_info anchor="bottom" id="Run" order="0" sideWeight="0.49840257" weight="0.32953367" />
+      <window_info anchor="bottom" id="Logcat" order="1" sideWeight="0.49840257" visible="true" weight="0.32953367" />
       <window_info anchor="bottom" id="TODO" order="2" weight="0.32958803" />
       <window_info anchor="bottom" id="Debug" order="3" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.32958803" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="5" sideWeight="0.50107527" side_tool="true" visible="true" weight="0.23220974" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50159746" side_tool="true" visible="true" weight="0.32953367" />
       <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49892473" visible="true" weight="0.23220974" />
-      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.4978701" weight="0.23212436" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
@@ -296,64 +366,97 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-24/android.jar!/android/app/PendingIntent.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#5035#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/JUCE/modules/juce_core/misc/juce_RuntimePermissions.h">
+    <entry file="jar://$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-24/android.jar!/android/app/PendingIntent.class" />
+    <entry file="file://$PROJECT_DIR$/../../../../modules/juce_core/misc/juce_RuntimePermissions.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1046">
           <caret line="93" column="47" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/JUCE/modules/juce_audio_devices/audio_io/juce_AudioIODevice.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="105" selection-start-line="105" selection-end-line="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Source/Main.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../Source/MainComponent.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
+        <state relative-caret-position="825">
           <caret line="55" column="31" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Source/MainComponent.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2975">
-          <caret line="175" column="37" selection-start-line="175" selection-start-column="37" selection-end-line="175" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Source/Spectrogram.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Source/AudioLiveScrollingDisplay.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
+        <state relative-caret-position="390">
           <caret line="26" column="52" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Source/Spectrogram.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="465">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Source/Spectrogram.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Source/Main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-201" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Source/MainComponent.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="93" column="21" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../modules/juce_audio_devices/audio_io/juce_AudioIODevice.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="317" column="31" selection-start-line="317" selection-start-column="25" selection-end-line="317" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/outputs/apk/debug_/debug/output.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Source/AudioRecorder.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="114" column="5" selection-start-line="114" selection-start-column="5" selection-end-line="114" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3418" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Android.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
         </state>
       </provider>
     </entry>
